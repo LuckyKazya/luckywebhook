@@ -1,0 +1,2 @@
+# luckywebhook
+Send Discord Webhooks!
